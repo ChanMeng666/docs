@@ -20,7 +20,6 @@
           {
             "group": "Welcome",
             "pages": [
-              "index",
               "programme/about-her-waka",
               "programme/schedule",
               "programme/about-shesharp"
