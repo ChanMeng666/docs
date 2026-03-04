@@ -9,7 +9,7 @@
   },
   "favicon": "/favicon.svg",
   "banner": {
-    "content": "Next workshop: March 25 — AI & Future of Work. [View details](/workshop/march-2026/overview)",
+    "content": "March 25, 12–2 pm: AI & The Future of Work at academyEX Pikopiko. [Register now](https://events.humanitix.com/she-sharp-ministry-of-social-development-academyex-her-waka)",
     "dismissible": true
   },
   "navigation": {
@@ -71,7 +71,7 @@
     "primary": {
       "type": "button",
       "label": "Register",
-      "href": "https://www.shesharp.org.nz/events"
+      "href": "https://events.humanitix.com/she-sharp-ministry-of-social-development-academyex-her-waka"
     }
   },
   "footer": {
